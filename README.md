@@ -1,1 +1,1 @@
-# News_bot
+Made this bot for getting news. Used pytelegrambotapi and beautifulsoup for parsing part.
